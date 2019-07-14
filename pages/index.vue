@@ -6,7 +6,7 @@
         Application
       </h1>
       <h2 class="subtitle">
-        OCR application using Azure Computer Vision API with Nuxt.js
+        Application using Azure Computer Vision API with Nuxt.js
       </h2>
       <div class="links">
         <a
