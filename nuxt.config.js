@@ -19,11 +19,15 @@ module.exports = {
   ** Customize the progress-bar color
   */
   loading: { color: '#fff' },
+  
   /*
   ** Global CSS
   */
   css: [
+    'bulma/css/bulma.css',
+    '@fortawesome/fontawesome-free/css/all.css'
   ],
+
   /*
   ** Plugins to load before mounting the App
   */
@@ -39,6 +43,7 @@ module.exports = {
    * Express MiddleWare
    */
   serverMiddleware: ['~/server/apis/index.js'],
+
   /*
   ** Build configuration
   */

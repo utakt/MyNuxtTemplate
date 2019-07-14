@@ -9,6 +9,7 @@ router.get("/", (req, res) => {
     res.send("hello");
 });
 
+// 「/user/about」にマッチする場合の処理
 router.get("/world", (req, res) => {
     res.send("helloworld");
 });
