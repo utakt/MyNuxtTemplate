@@ -1,6 +1,6 @@
-# ocrapp
+# Application
 
-> OCR application using Azure Computer Vision API with Nuxt.js
+> Application using Azure Computer Vision API with Nuxt.js
 
 ## Build Setup
 
