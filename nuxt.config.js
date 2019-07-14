@@ -38,7 +38,7 @@ module.exports = {
   /**
    * Express MiddleWare
    */
-  serverMiddleware: ['~/api/index.js'],
+  serverMiddleware: ['~/server/apis/index.js'],
   /*
   ** Build configuration
   */
