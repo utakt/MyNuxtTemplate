@@ -33,20 +33,13 @@ module.exports = {
   */
   plugins: [
   ],
-  
+
   /*
   ** Nuxt.js modules
   */
   modules: [
   ],
-  
-  /*
-  ** Axios module configuration
-  ** See https://axios.nuxtjs.org/options
-  */
-  axios: {
-  },
-  
+
   /**
    * Express MiddleWare
    */
